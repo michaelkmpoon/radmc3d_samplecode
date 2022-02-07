@@ -81,6 +81,7 @@ def density_profile(rsph, rcyl, height, temp):
     Parameters:
         rsph (array): spherical radius [cm] for entire grid
         rcyl (array): cylindrical radius [cm] for entire grid
+        height (array): height [cm] above disk midplane
         temp (array): temperature [K] as function of radius
     
     Returns:
