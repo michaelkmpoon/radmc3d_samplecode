@@ -8,7 +8,7 @@ to model Dipper star J1604 with its 80 au transition disk and hypothesized misal
 
 The code is modified to include:
 
-1) Cylindrical to cartesial coordinate tranform to create a radial warp
+1) Cylindrical to cartesian coordinate tranform to create a radial warp
 2) Custom temperature and density profile 
 3) Follow PEP 8 style guide for Python
 
